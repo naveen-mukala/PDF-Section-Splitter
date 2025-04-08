@@ -1,0 +1,11 @@
+# Core library for PDF manipulation
+PyPDF2==3.0.0
+
+# Optional: For JSON handling (built-in in Python, but included for completeness)
+jsonlib==1.6.2
+
+# Optional: For creating a GUI (if using Streamlit)
+streamlit==1.26.0
+
+# Optional: For testing
+pytest==7.4.0
